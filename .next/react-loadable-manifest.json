@@ -1,0 +1,8 @@
+{
+  "index.js -> ../components/Menu": {
+    "id": "./components/Menu.js",
+    "files": [
+      "static/chunks/components_Menu_js.js"
+    ]
+  }
+}
